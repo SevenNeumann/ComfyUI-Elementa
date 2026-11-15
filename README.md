@@ -3,6 +3,8 @@
 > *Elementa*: the Latin name of Euclid's *Elements*, the book that built geometry from a few pure forms.
 > This pack follows the same idea: small, pure building blocks for image pipelines.
 
+![Elementa batch loader](docs/preview.png)
+
 Batch loading with a gallery UI, layered PSD export (RGB / CMYK), configurable image formats (PNG, JPG, WEBP, JPEG XL, PSD) and more.
 Free and open source (MIT).
 
