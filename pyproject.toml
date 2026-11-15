@@ -1,0 +1,16 @@
+# Metadata for the Comfy Registry. Not needed for local development; finish the TODOs before the first publish.
+[project]
+name = "comfyui-elementa"        # IMMUTABLE after the first publish
+description = "Batch loading with a gallery UI, layered PSD export (RGB/CMYK), shadow extraction and more for ComfyUI."
+version = "0.1.0"
+license = { file = "LICENSE" }
+requires-python = ">=3.9"
+dependencies = []                # installed from requirements.txt
+
+[project.urls]
+Repository = "https://github.com/SevenNeumann/ComfyUI-Elementa"
+
+[tool.comfy]
+PublisherId = ""                 # TODO from registry.comfy.org
+DisplayName = "Elementa"
+Icon = ""

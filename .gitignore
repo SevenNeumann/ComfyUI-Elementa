@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node (only for UI tests)
+node_modules/
+
+# Editors / OS
+# (settings.json holds machine-specific paths)
+.vscode/settings.json
+.idea/
+Thumbs.db
+.DS_Store
+
+# Local junk
+*.log
+*.tmp

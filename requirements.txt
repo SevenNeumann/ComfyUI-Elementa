@@ -1,0 +1,4 @@
+# Python packages this pack needs on top of what ComfyUI already ships (numpy, Pillow, torch, torchvision).
+# ComfyUI-Manager installs this file automatically. If you installed the pack by hand, run install.py
+# with the SAME Python that runs ComfyUI (see README).
+pillow-jxl-plugin>=1.3.0
